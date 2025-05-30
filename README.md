@@ -1,2 +1,4 @@
 # PCS-FEB2025
-Repositorio de la EE Principios de Construcción de Software, periodo feb-jul 2025, proyecto Sistema de Control Escolar
+Repositorio del ejercicio realizado para la EE Principios de Construcción de Software, periodo feb-jul 2025.
+
+Este ejercicio es un proyecto de Sistema de Control Escolar.
