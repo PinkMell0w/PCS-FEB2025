@@ -2,3 +2,5 @@
 Repositorio del ejercicio realizado para la EE Principios de Construcción de Software, periodo feb-jul 2025.
 
 Este ejercicio es un proyecto de Sistema de Control Escolar.
+
+Es importante denotar la importancia de la imagen importante agregada.
